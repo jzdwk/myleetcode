@@ -1,4 +1,4 @@
-package com.lc.test;
+package com.lc.test.inheritance;
 
 /**
  * Created by cmcc on 2020-06-28.
